@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2cbf0562-d68e-483c-8f49-82bcf3b6fe1e/deploy-status)](https://app.netlify.com/sites/frontend-mentor-stats-preview-card/deploys)
+
 # Frontend Mentor - Stats preview card component solution
 
 This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -14,11 +16,9 @@ Users should be able to:
 
 ### Screenshot
 
-![finished project image](https://github.com/chryzcodez/Frontend-Projects/blob/master/stats-preview-card-component-main/design/desktop-design.jpg)
+![finished project image](https://github.com/chryz-code/stats-preview-card/blob/master/design/desktop-design.jpg)
 
 ### Links
-
-- Solution URL: [Source Code - GitHub](https://github.com/chryzcodez/Frontend-Projects/tree/master/stats-preview-card-component-main)
 - Live Site URL: [Netlify](https://frontend-mentor-stats-preview-card.netlify.app/)
 
 
@@ -34,11 +34,9 @@ Users should be able to:
 - Google Developer Tools - This have been always helping me while building frontend projects.
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@chryzcodez](https://www.frontendmentor.io/profile/chryzcodez)
-- Twitter - [@chryz_codez](https://twitter.com/chryz_codez)
+- Frontend Mentor - [CODE](https://www.frontendmentor.io/profile/chryz-code)
+- Twitter - [CODE](https://twitter.com/chryz_code)
 
 ## Acknowledgments
-I appreciate Frontend Mentor for it's initiative in helping developers learn through gettung their hands dirty with codes
+I appreciate Frontend Mentor for it's initiative in helping developers learn by getting their hands dirty with codes
 
