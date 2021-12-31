@@ -21,7 +21,7 @@
 
 body{
   background: hsl(233, 47%, 7%);
-  margin-top: 130px;
+  margin-top: 100px;
   width: 100%;
 }
 
@@ -147,6 +147,20 @@ img{
   .a-stat p{
     font-size: 40%;
   }
+}
+
+#github {
+  font-size: 40px;
+  color: #65676b;
+  display: block;
+  display: flex;
+  justify-content: right;
+  margin-right: 50px;
+  margin-bottom: 40px;
+}
+
+body > a {
+  text-decoration: none;
 }
 
 @media all and (max-width: 650px){
